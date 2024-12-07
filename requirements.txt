@@ -1,0 +1,7 @@
+discord.py
+python-dotenv
+openai
+notion-client
+SpeechRecognition
+PyAudio
+pydub
