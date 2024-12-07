@@ -5,3 +5,7 @@ notion-client
 SpeechRecognition
 PyAudio
 pydub
+ffmpeg-python
+aiohttp
+numpy
+setuptools
